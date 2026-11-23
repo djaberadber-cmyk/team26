@@ -2,8 +2,8 @@ TP 01 – Operation Ghost Bus
 
 Team 26
 
-Abderezeg Djaber
-Djenane Baha-Eldine
+ABDerezeg Djaber
+ = = Djenane Baha-Eldine
 
 Repository: https://github.com/djaberadber-cmyk/team26
 
